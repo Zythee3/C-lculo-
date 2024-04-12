@@ -1,4 +1,4 @@
-<h1 align="center"> Plataforma Web - YouMe Dashboard </h1>
+<h1 align="center"> Projeto Cálculo 2 </h1>
 
 # Badges
 ![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
