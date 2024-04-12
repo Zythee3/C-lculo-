@@ -33,3 +33,7 @@
 * pip install numpy
 * pip install matplotlib
   
+# :hammer: Funcionalidades e Demonstração da Aplicação
+`Tela Ex 01`: <p>Tela Ex 01</p> 
+
+![Captura de tela 2024-04-12 124654](https://github.com/Zythee3/Calculo/assets/59659214/9ffc376b-c55a-454a-b9fd-cf62f7598d3a)
