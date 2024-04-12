@@ -41,9 +41,5 @@
 ![image](https://github.com/Zythee3/Calculo/assets/59659214/68ee3355-39ad-4572-94c2-ea59629e9229)
 
 # Pessoas Por Trás do Projeto
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/59659214?v=4" width=115><br><sub>José Vinícius</sub>](https://github.com/ZeAndradee/) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/59659214?v=4" width=115><br><sub>Samuel Duque</sub>](https://github.com/Samuel-Duque) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/116170926?v=4" width=115><br><sub>Maria Fernanda</sub>](https://github.com/mfhhia) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/148970969?v=4" width=115><br><sub>Matheus Guilherme</sub>](https://github.com/Zythee3) |
-| --- | --- | --- | --- | --- | --- | --- |
-
-# Pessoas Por Trás do YouMe
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/59659214?v=4" width=115><br><sub>José Vinícius</sub>](https://github.com/ZeAndradee/) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/131277691?v=4" width=115><br><sub>Samuel Duque</sub>](https://github.com/Samuel-Duque) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/116170926?v=4" width=115><br><sub>Maria Fernanda</sub>](https://github.com/mfhhia) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/148970969?v=4" width=115><br><sub>Matheus Guilherme</sub>](https://github.com/Zythee3) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/129004284?v=4" width=115><br><sub>Arthur Renê</sub>](https://github.com/ArthurRSS4) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/134803634?v=4" width=115><br><sub>Otton Vinicius</sub>](https://github.com/Ott-on) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/118084378?v=4" width=115><br><sub>Dhavi Domingues</sub>](https://github.com/DhaviDBD) |
 | --- | --- | --- | --- | --- | --- | --- |
