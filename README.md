@@ -8,7 +8,7 @@
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Tecnologias utilizadas](#:white_check_mark:-Tecnologias-Utilizadas)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 
