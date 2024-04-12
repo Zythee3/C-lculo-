@@ -34,6 +34,8 @@
 * pip install matplotlib
   
 # :hammer: Funcionalidades e Demonstração da Aplicação
-`Tela Ex 01`: <p>Tela Ex 01</p> 
-
+`Tela Ex 01`:
 ![Captura de tela 2024-04-12 124654](https://github.com/Zythee3/Calculo/assets/59659214/9ffc376b-c55a-454a-b9fd-cf62f7598d3a)
+
+`Graficos Ex 02`:
+![image](https://github.com/Zythee3/Calculo/assets/59659214/68ee3355-39ad-4572-94c2-ea59629e9229)
